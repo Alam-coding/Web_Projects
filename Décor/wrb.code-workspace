@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/fuckweb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wrb"
+	}
+}
